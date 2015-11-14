@@ -1,5 +1,5 @@
 # MongoDB - Aula 01 - Exercício
-autor: Roland Gabriel Nogueira Molina
+autor: Roland Gabriel 
 
 
 ## Importando os restaurantes
