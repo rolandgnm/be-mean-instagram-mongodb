@@ -15,12 +15,6 @@ autor: Roland Gabriel Nogueira Molina
 ## Contando os restaurantes
 
     ```
-    suissacorp(mongod-3.0.6) be-mean> db.restaurantes.find({}).count()
-    X
-
-    ```
-
-    ```
     Roland(mongod-3.0.7) be-mean> db.restaurantes.count()
     25359
     
